@@ -1,1 +1,4 @@
-"# belasartes"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/brunoniconeves/belasartes.git git push -u origin master
+"# belasartes" 
+
+Frontend in React of the School of Dance Balle Belas Artes. It consumes the backend developed in NodeJS and Typescript available in:
+https://github.com/brunoniconeves/belasartesapi
